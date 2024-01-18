@@ -1,0 +1,33 @@
+header {
+    background-color: rgb(151, 151, 151);
+}
+
+img {
+    width: 30%;
+}
+
+header {
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.5em;
+    text-transform: uppercase;
+}
+
+#container {
+    background-image: url("moonTransparent.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-color: rgb(255, 255, 255);
+    color:aliceblue;
+    width: 90%;
+    margin: auto;
+    padding: 1em;
+
+}
+
+footer {
+    background-color: rgb(58, 58, 58);
+    color: rgb(215, 215, 215);
+}
